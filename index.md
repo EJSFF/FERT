@@ -1,3 +1,5 @@
+This page hosts summaries of data related to air, water and GHG emissions from fertilizer plants and other facilities along with environmnetal justice demographic data through EPA's NEI database, ECHO database, and EJSCREEN tool.
+
 # AIR POLLUTION
 All air emission data below are from [EPA'S NEI DATABASE — 2017.](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
 
