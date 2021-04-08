@@ -1,5 +1,5 @@
 # AIR POLLUTION
-### All air emission data below is from [EPA'S NEI DATABASE — 2017](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
+All air emission data below are from [EPA'S NEI DATABASE — 2017](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
 
 ## AMMONIA
 The map below shows all facilities in EPA's NEI dataset with >10 tons NH3 emitted in 2017: Points are scaled by magnitude of emissions and colored by EJSCREEN demographic index, with darker points indicating greater proportion of POC and low-income population within a 1 mile radius.
