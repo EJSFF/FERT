@@ -12,7 +12,7 @@ The map below shows values for all fertilizer plants with over 10 tons NH3 emitt
 <iframe title="Fertilizer plants with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-Vx6kz" src="https://datawrapper.dwcdn.net/Vx6kz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/).)
+(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/). For a table of fertilizer plants with the highest EJSCREEN values and their emissions, see [HERE](https://datawrapper.dwcdn.net/qEjBf/1/).)
 <br>
 
 ********
