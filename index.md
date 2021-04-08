@@ -1,4 +1,4 @@
-This page hosts summaries of data related to air pollution, water pollution and GHG emissions from fertilizer plants and other facilities along with environmnetal justice demographic data through EPA's NEI database, ECHO database, and EJSCREEN tool.
+This page hosts summaries of EPA data related to air pollution, water pollution and GHG emissions from fertilizer plants and other facilities along with environmental justice demographic data from EPA's EJSCREEN tool.
 
 # AIR POLLUTION
 All air emission data below are from [EPA'S NEI DATABASE — 2017.](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
@@ -25,7 +25,6 @@ The map below shows values for 56 fertilizer plants with over 10 tons NH3 emitte
 
 (For total H2S emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/JGflc/1/). For top H2S emitters across sectors, see [all annual emitters over 10 tons by location on map HERE](https://datawrapper.dwcdn.net/qM7Xr/1/) or [by value HERE](https://datawrapper.dwcdn.net/SHbov/1/).) 
 
-<br>
 ## NITROUS OXIDE
 
 <iframe title="N2O EMISSIONS BY LOCATION" aria-label="Map" id="datawrapper-chart-vH4cZ" src="https://datawrapper.dwcdn.net/vH4cZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
