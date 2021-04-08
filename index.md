@@ -1,10 +1,17 @@
 # AIR POLLUTION
-### AIR EMISSIONS FROM FERTILIZER PLANTS IN [EPA'S NEI DATABASE — 2017](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
+### All air emission data below is from [EPA'S NEI DATABASE — 2017](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
 
 ## AMMONIA
+The map below shows all facilities in EPA's NEI dataset with >10 tons NH3 emitted in 2017: Points are scaled by magnitude of emissions and colored by EJSCREEN demographic index, with darker points indicating greater proportion of POC and low-income population within a 1 mile radius.
 
-<iframe title="AMMONIA EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-CodfR" src="https://datawrapper.dwcdn.net/CodfR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="514"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="All Facilities with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-hOp2A" src="https://datawrapper.dwcdn.net/hOp2A/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+The map below shows values for all fertilizer plants with over 10 tons NH3 emitted in 2017.
+
+<iframe title="Fertilizer plants with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-Vx6kz" src="https://datawrapper.dwcdn.net/Vx6kz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 (For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/). For top NH3 emitters across sectors, see [all annual emitters over 10 tons by location on map HERE](https://datawrapper.dwcdn.net/yg3sd/1/) or [by value HERE](https://datawrapper.dwcdn.net/Fj49x/2/).)
 <br>
 ## HYDROGEN SULFIDE
