@@ -2,18 +2,16 @@
 All air emission data below are from [EPA'S NEI DATABASE — 2017.](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
 
 ## AMMONIA
-The map below shows 976 facilities in EPA's NEI dataset with >10 tons NH3 emitted in 2017. Points are scaled by magnitude of NH3 emissions and colored by EPA's EJSCREEN demographic index, with darker points indicating greater proportion of POC and low-income population within a 1 mile radius.
-
+The map below shows 976 facilities in EPA's NEI dataset with >10 tons NH3 emitted in 2017. Points are scaled by magnitude of NH3 emissions and colored by EPA's EJSCREEN demographic index, with darker points indicating greater proportion of POC and low-income population within a 1 mile radius. [Make full screen](https://datawrapper.dwcdn.net/hOp2A/3/)
 <iframe title="All Facilities with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-hOp2A" src="https://datawrapper.dwcdn.net/hOp2A/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script> [Make full screen](https://datawrapper.dwcdn.net/hOp2A/3/)
+</script>
 <br>
 <br>
-The map below shows values for 56 fertilizer plants with over 10 tons NH3 emitted in 2017. For a table of the subset of fertilizer plants with the highest EJSCREEN values and their emissions, see [HERE.](https://datawrapper.dwcdn.net/qEjBf/1/)
-
+The map below shows values for 56 fertilizer plants with over 10 tons NH3 emitted in 2017. [Make full screen](https://datawrapper.dwcdn.net/Vx6kz/4/).
 <iframe title="Fertilizer plants with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-Vx6kz" src="https://datawrapper.dwcdn.net/Vx6kz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>[Make full screen](https://datawrapper.dwcdn.net/Vx6kz/4/)
+</script>
 
-(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/).)
+(For a table of the subset of fertilizer plants with the highest EJSCREEN values and their emissions, see [HERE.](https://datawrapper.dwcdn.net/qEjBf/1/) For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/).)
 <br>
 
 ********
