@@ -12,8 +12,11 @@ The map below shows values for all fertilizer plants with over 10 tons NH3 emitt
 <iframe title="Fertilizer plants with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-Vx6kz" src="https://datawrapper.dwcdn.net/Vx6kz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/). For top NH3 emitters across sectors, see [all annual emitters over 10 tons by location on map HERE](https://datawrapper.dwcdn.net/yg3sd/1/) or [by value HERE](https://datawrapper.dwcdn.net/Fj49x/2/).)
+(For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/).)
 <br>
+
+********
+
 ## HYDROGEN SULFIDE
 
 <iframe title="H2S EMISSIONS BY PLANT" aria-label="Map" id="datawrapper-chart-sxMmz" src="https://datawrapper.dwcdn.net/sxMmz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
