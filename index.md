@@ -13,6 +13,8 @@ The map below shows values for 56 fertilizer plants with over 10 tons NH3 emitte
 <iframe title="Fertilizer plants with &amp;gt;10 tons/yr NH3" aria-label="Map" id="datawrapper-chart-Vx6kz" src="https://datawrapper.dwcdn.net/Vx6kz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+Across all fertilizer plants above, the average low income demographic index percentile is 62% (I.e. on average, communities within a mile of fertilizer plants have higher proportion of households with incomes less than or equal to twice the federal poverty level.) Similarly, the average percentile for people age 25 or older in a block group whose education is short of a high school diploma is 60% and the average percentile for people living in linguistically isolated households is 58%.
+
 (For a table of the subset of fertilizer plants with the highest EJSCREEN values and their emissions, see [HERE.](https://datawrapper.dwcdn.net/qEjBf/1/) For total NH3 emissions by sector in 2017 NEI data, see [HERE](https://datawrapper.dwcdn.net/ikibz/1/).)
 <br>
 
