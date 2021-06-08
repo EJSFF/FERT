@@ -1,4 +1,4 @@
-This page hosts summaries of EPA data related to air pollution and GHG emissions from fertilizer plants and other facilities along with environmental justice demographic data from EPA's EJSCREEN tool. See [HERE](https://ejsff.github.io/FERTH2O/) for a summary of N water pollution from fertilizer manufacturing based on data from EPA's ECHO database.
+This page hosts summaries of EPA data related to air pollution and GHG emissions from fertilizer plants and other facilities along with environmental justice demographic data from EPA's EJSCREEN tool. <b>See [HERE](https://ejsff.github.io/FERTH2O/) for a summary of N water pollution from fertilizer manufacturing based on data from EPA's ECHO database.</b>
 
 # AIR POLLUTION
 All air emission data below are from [EPA'S NEI DATABASE — 2017.](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data)
